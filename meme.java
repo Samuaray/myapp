@@ -5,7 +5,7 @@ public class meme
 
 
     
-    System.out.println("I create memes");
+    System.out.println("I create memes for reddit");
 
 
 
