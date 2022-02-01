@@ -6,7 +6,7 @@ public class meme
 
     
     System.out.println("I create memes for reddit");
-
+    System.out.println("These memes are funny");
 
 
 
